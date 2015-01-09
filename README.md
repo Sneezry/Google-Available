@@ -6,7 +6,7 @@ Google-Available
 + <https://xie.lu>
 + <http://www.googleforchina.com/index_desktop.html>
 + <https://www.ggncr.com/?gws_rd=ssl>
-+ <http://www.everthis.com/?gfe_rd=cr&ei=6duvVPOTJs-h8wWjgIGYBg&gws_rd=cr,ssl>
++ <http://www.everthis.com>
 + <https://ppx.pw/>
 + <https://google.sqzr.cc/>
 + <https://521.pt/>
