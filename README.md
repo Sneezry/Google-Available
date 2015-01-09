@@ -13,3 +13,4 @@ Google-Available
 + <https://soso.red/>
 + <https://jinke.la/?gws_rd=ssl>
 + <http://91.213.30.150/>
++ <https://www.lamjoeone.info/>
