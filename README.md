@@ -3,6 +3,7 @@ Google-Available
 
 + <https://g.net.co>
 + <https://google.sqzr.cc>
++ <https://g.wen.lu>
 + <https://xie.lu>
 + <http://www.googleforchina.com/index_desktop.html>
 + <https://www.ggncr.com/?gws_rd=ssl>
