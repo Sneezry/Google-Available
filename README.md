@@ -34,6 +34,8 @@ Google-Available
 + <https://www.guge.date/>
 + <https://gg.searcher.top/>
 + <http://gg.cellmean.com/>
++ <https://www.baiduyaowan.com/webhp?gws_rd=ssl>
++ <https://letsgg.tk/>
 + <http://google.kainidi.cn/>
 + <https://www.sslpxy.com/>
 + <https://google.xface.me/>
